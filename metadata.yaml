@@ -1,0 +1,29 @@
+_repo: The-Love-Affairs-of-an-Old-Maid_22047
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22047-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Bell, Lilian
+    alias: Bogue, Lilian Lida Bell
+    birthdate: 1867
+    deathdate: 1929
+    gutenberg_agent_id: '4047'
+    url: http://www.gutenberg.org/2009/agents/4047
+description: ''
+gutenberg_issued: '2007-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22047'
+  lccn: '04022064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Single women -- Fiction'
+title: The Love Affairs of an Old Maid
+url: http://www.gutenberg.org/ebooks/22047
